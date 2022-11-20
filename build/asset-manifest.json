@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jaakobb/jaakobb.github.io.git/static/css/main.4502a7b2.css",
+    "main.js": "/jaakobb/jaakobb.github.io.git/static/js/main.8bc5734a.js",
+    "index.html": "/jaakobb/jaakobb.github.io.git/index.html",
+    "main.4502a7b2.css.map": "/jaakobb/jaakobb.github.io.git/static/css/main.4502a7b2.css.map",
+    "main.8bc5734a.js.map": "/jaakobb/jaakobb.github.io.git/static/js/main.8bc5734a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4502a7b2.css",
+    "static/js/main.8bc5734a.js"
+  ]
+}
