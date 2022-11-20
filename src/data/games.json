@@ -1,0 +1,12 @@
+{
+    "resource": "games", 
+    "games": [
+        {
+            "title": "Fallout 4",
+            "date": "20.11.2022", 
+            "image": "https://howlongtobeat.com/games/Fallout_4.jpg",
+            "description": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the...",
+            "rating": 8
+        }
+    ]
+}
