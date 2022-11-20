@@ -2,11 +2,11 @@
     "resource": "games", 
     "games": [
         {
-            "title": "Star Wars 7: Das Erwachen der Macht",
+            "title": "Fallout 4",
             "date": "20.11.2022", 
-            "image": "https://assets.cdn.moviepilot.de/files/7f4ad7388ced0b965c57044321cfbfc9aa24b9060fdbe7c6515975f5119b/limit/494/699/star-wars-das-erwachen-der-macht-poster.jpg",
-            "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
-            "rating": 7
+            "image": "https://howlongtobeat.com/games/Fallout_4.jpg",
+            "description": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the...",
+            "rating": 8
         }
     ]
 }

@@ -2,11 +2,11 @@
     "resource": "movies", 
     "movies": [
         {
-            "title": "Star Wars 7: Das Erwachen der Macht",
+            "title": "The Great Gatsby",
             "date": "20.11.2022", 
-            "image": "https://assets.cdn.moviepilot.de/files/7f4ad7388ced0b965c57044321cfbfc9aa24b9060fdbe7c6515975f5119b/limit/494/699/star-wars-das-erwachen-der-macht-poster.jpg",
-            "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
-            "rating": 7
+            "image": "https://a.ltrbxd.com/resized/film-poster/2/8/5/285-the-great-gatsby-0-500-0-750-crop.jpg",
+            "description": "An adaptation of F. Scott Fitzgerald’s Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby.",
+            "rating": 5
         }
     ]
 }

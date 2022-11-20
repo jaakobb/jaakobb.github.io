@@ -2,10 +2,10 @@
     "resource": "series", 
     "series": [
         {
-            "title": "Star Wars 7: Das Erwachen der Macht",
+            "title": "The Rings of Power (Season 1)",
             "date": "20.11.2022", 
-            "image": "https://assets.cdn.moviepilot.de/files/7f4ad7388ced0b965c57044321cfbfc9aa24b9060fdbe7c6515975f5119b/limit/494/699/star-wars-das-erwachen-der-macht-poster.jpg",
-            "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+            "image": "https://assets.cdn.moviepilot.de/files/5684f29d38f2963c85292900c3f8432cd9c96f9ae0c91571fc5047d693fb/limit/473/700/lord_of_the_rings_the_rings_of_power_ver55_xlg.jpg",
+            "description": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new...",
             "rating": 7
         }
     ]

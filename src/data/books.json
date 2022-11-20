@@ -2,11 +2,11 @@
     "resource": "books", 
     "books": [
         {
-            "title": "Star Wars 7: Das Erwachen der Macht",
+            "title": "Norwegian Wood (Haruki Murakami)",
             "date": "20.11.2022", 
-            "image": "https://assets.cdn.moviepilot.de/files/7f4ad7388ced0b965c57044321cfbfc9aa24b9060fdbe7c6515975f5119b/limit/494/699/star-wars-das-erwachen-der-macht-poster.jpg",
-            "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
-            "rating": 7
+            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630460042i/11297.jpg",
+            "description": "Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the...",
+            "rating": 9
         }
     ]
 }

@@ -2,11 +2,11 @@
     "resource": "music", 
     "music": [
         {
-            "title": "Star Wars 7: Das Erwachen der Macht",
+            "title": "R.A.P. Ferreira - 5 to the Eye With Stars",
             "date": "20.11.2022", 
-            "image": "https://assets.cdn.moviepilot.de/files/7f4ad7388ced0b965c57044321cfbfc9aa24b9060fdbe7c6515975f5119b/limit/494/699/star-wars-das-erwachen-der-macht-poster.jpg",
+            "image": "https://e.snmc.io/i/600/w/b2f51a3ad1cce0f618d51db57c1eb91e/10283017/r_a_p-ferreira-5-to-the-eye-with-stars-Cover-Art.jpg",
             "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
-            "rating": 7
+            "rating": 6
         }
     ]
 }
