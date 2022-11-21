@@ -19,6 +19,7 @@ function App() {
 
   return (
     <div className="App">
+      <div className="App-Header">
         <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
           <Tabs aria-label="basic tabs example" value={activeIndex} >
             <Tab label="Startseite" onClick={() => setActiveIndex(0)} />
@@ -29,24 +30,25 @@ function App() {
             <Tab label="Bücher" onClick={() => setActiveIndex(5)} />
           </Tabs>
         </Box>
-        <TabPanel index={0} isActive={activeIndex === 0}>
-          Startseite
-        </TabPanel>
-        <TabPanel index={1} isActive={activeIndex === 1}>
-          <Movies />
-        </TabPanel>
-        <TabPanel index={2} isActive={activeIndex === 2}>
-          <Series />
-        </TabPanel>
-        <TabPanel index={3} isActive={activeIndex === 3}>
-          <Music />
-        </TabPanel>
-        <TabPanel index={4} isActive={activeIndex === 4}>
-          <Games />
-        </TabPanel>
-        <TabPanel index={5} isActive={activeIndex === 5}>
-          <Books />
-        </TabPanel>
+      </div>
+      <TabPanel index={0} isActive={activeIndex === 0}>
+        Startseite
+      </TabPanel>
+      <TabPanel index={1} isActive={activeIndex === 1}>
+        <Movies />
+      </TabPanel>
+      <TabPanel index={2} isActive={activeIndex === 2}>
+        <Series />
+      </TabPanel>
+      <TabPanel index={3} isActive={activeIndex === 3}>
+        <Music />
+      </TabPanel>
+      <TabPanel index={4} isActive={activeIndex === 4}>
+        <Games />
+      </TabPanel>
+      <TabPanel index={5} isActive={activeIndex === 5}>
+        <Books />
+      </TabPanel>
     </div>
   );
 }

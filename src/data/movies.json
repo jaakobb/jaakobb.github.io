@@ -1,12 +1,6 @@
 {
     "resource": "movies", 
     "movies": [
-        {
-            "title": "The Great Gatsby",
-            "date": "20.11.2022", 
-            "image": "https://a.ltrbxd.com/resized/film-poster/2/8/5/285-the-great-gatsby-0-500-0-750-crop.jpg",
-            "description": "An adaptation of F. Scott Fitzgerald’s Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby.",
-            "rating": 5
-        }
+        
     ]
 }

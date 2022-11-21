@@ -1,3 +1,16 @@
 .card-wrapper {
+    width: 264px;
     margin: 8px;
+}
+
+.card-date-chip {
+    margin-bottom: 8px;
+}
+
+.card-description {
+    max-height: 80px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }

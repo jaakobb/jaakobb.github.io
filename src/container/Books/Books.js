@@ -7,7 +7,7 @@ export function Books(props) {
     return (
         <div className="books-panel">
             {data.books.map((aBook) => (
-                <MediaCard category="B" data={aBook} />
+                <MediaCard category="B" data={aBook} height="380" />
             ))}
         </div>
     );

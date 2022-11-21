@@ -2,11 +2,12 @@
     "resource": "music", 
     "music": [
         {
-            "title": "R.A.P. Ferreira - 5 to the Eye With Stars",
-            "date": "20.11.2022", 
-            "image": "https://e.snmc.io/i/600/w/b2f51a3ad1cce0f618d51db57c1eb91e/10283017/r_a_p-ferreira-5-to-the-eye-with-stars-Cover-Art.jpg",
-            "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
-            "rating": 6
+            "title": "And in the Darkness, Hearts Aglow",
+            "subtitle": "Weyes Blood",
+            "date": "21.11.2022", 
+            "image": "https://cdn2.albumoftheyear.org/375x/album/525884-and-in-the-darkness-hearts-aglow.jpg",
+            "description": "Titanic Rising was met with rave reviews, but this record – which spans steely indie-rock and strummed country ballads – might just be her magnum opus.",
+            "rating": 9
         }
     ]
 }

@@ -7,7 +7,7 @@ export function Games(props) {
     return (
         <div className="games-panel">
             {data.games.map((aGame) => (
-                <MediaCard category="G" data={aGame} />
+                <MediaCard category="G" data={aGame} height="380" />
             ))}
         </div>
     );

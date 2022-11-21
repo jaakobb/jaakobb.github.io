@@ -7,7 +7,7 @@ export function Movies(props) {
     return (
         <div className="movies-panel">
             {data.movies.map((aMovie) => (
-                <MediaCard category="M" data={aMovie} />
+                <MediaCard category="M" data={aMovie} height="380" />
             ))}
         </div>
     );

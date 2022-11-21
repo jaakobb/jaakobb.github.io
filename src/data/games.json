@@ -2,11 +2,12 @@
     "resource": "games", 
     "games": [
         {
-            "title": "Fallout 4",
-            "date": "20.11.2022", 
-            "image": "https://howlongtobeat.com/games/Fallout_4.jpg",
-            "description": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the...",
-            "rating": 8
+            "title": "Activision",
+            "subtitle": "Call of Duty: Modern Warfare II",
+            "date": "21.11.2022", 
+            "image": "https://howlongtobeat.com/games/109060_Call_of_Duty_Modern_Warfare_2_(2022).jpg",
+            "description": "Call of Duty: Modern Warfare II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
+            "rating": 7
         }
     ]
 }

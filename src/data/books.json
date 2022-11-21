@@ -1,12 +1,6 @@
 {
     "resource": "books", 
     "books": [
-        {
-            "title": "Norwegian Wood (Haruki Murakami)",
-            "date": "20.11.2022", 
-            "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630460042i/11297.jpg",
-            "description": "Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the...",
-            "rating": 9
-        }
+        
     ]
 }

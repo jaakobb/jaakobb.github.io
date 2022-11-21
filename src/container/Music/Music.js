@@ -7,7 +7,7 @@ export function Music(props) {
     return (
         <div className="music-panel">
             {data.music.map((aMusic) => (
-                <MediaCard category="MU" data={aMusic} />
+                <MediaCard category="MU" data={aMusic} height="264" />
             ))}
         </div>
     );

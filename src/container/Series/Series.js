@@ -7,7 +7,7 @@ export function Series(props) {
     return (
         <div className="series-panel">
             {data.series.map((aSeries) => (
-                <MediaCard category="S" data={aSeries} />
+                <MediaCard category="S" data={aSeries} height="380" />
             ))}
         </div>
     );

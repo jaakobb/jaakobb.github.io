@@ -9,39 +9,31 @@ import CardHeader from '@mui/material/CardHeader';
 import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import CardActions from '@mui/material/CardActions';
-import Collapse from '@mui/material/Collapse';
+import Chip from '@mui/material/Chip';
 import Avatar from '@mui/material/Avatar';
-import IconButton from '@mui/material/IconButton';
 import Typography from '@mui/material/Typography';
-import { red } from '@mui/material/colors';
-import FavoriteIcon from '@mui/icons-material/Favorite';
-import ShareIcon from '@mui/icons-material/Share';
+import { blue } from '@mui/material/colors';
 
 export function MediaCard(aProps) {
-    const [expanded, setExpanded] = React.useState(false);
-  
-    const { children, data, category, imgProps} = aProps;
+  const { data, category, height } = aProps;
 
-    const handleExpandClick = () => {
-      setExpanded(!expanded);
-    };
-  
-    return (
-        <div className="card-wrapper">
-            <Card sx={{ maxWidth: 345 }}>
-                <CardHeader avatar={<Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">{category}</Avatar>
-          }
+  return (
+    <div className="card-wrapper">
+      <Card sx={{ maxWidth: 264 }}>
+        <CardHeader
           title={data.title}
-          subheader={data.date}
+          titleTypographyProps={{variant: 'body2'}}
+          subheader={data.subtitle}
         />
         <CardMedia
           component="img"
-          height="500"
+          height={height}
           image={data.image}
           alt={data.title}
         />
         <CardContent>
-          <Typography variant="body2" color="text.secondary">
+          <Chip className="card-date-chip" label={data.date} variant="outlined" />
+          <Typography className="card-description" variant="body2" color="text.secondary">
             {data.description}
           </Typography>
         </CardContent>
@@ -49,6 +41,6 @@ export function MediaCard(aProps) {
           <StarRating rating={data.rating} />
         </CardActions>
       </Card>
-      </div>
-    );
-  }
+    </div>
+  );
+}
